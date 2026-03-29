@@ -12,17 +12,6 @@ Studying Data Science at the Federal University of Ceará (UFC)
 
 ## 🌐 Socials:
 
-<p align="left">
-    <a href="https://github.com/DudaSousa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            width="120"
-            src="https://custom-icon-badges.demolab.com/github/followers/DudaSousa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dudasousa1904) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duda.fullstack@gmail.com)
 
 ---
