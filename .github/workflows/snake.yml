@@ -12,7 +12,11 @@ jobs:
 
     steps:
       # Passo 1: Clonar o repo
-      - uses: actions/checkout@v3
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # Passo 2: Rodar o snake generator
       - uses: Platane/snk@v3
