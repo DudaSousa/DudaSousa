@@ -1,0 +1,27 @@
+name: Generate Snake
+
+# Quando rodar
+on:
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12 horas
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Passo 1: Clonar o repo
+      - uses: actions/checkout@v3
+
+      # Passo 2: Rodar o snake generator
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DudaSousa  # Coloque seu username
+          outputs: dist/snake.svg
+
+      # Passo 3: Publicar o SVG na branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
