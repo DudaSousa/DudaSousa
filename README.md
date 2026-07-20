@@ -1,11 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=220&section=header&text=Eduarda%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20|%20Federal%20University%20of%20Cear%C3%A1&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=220&section=header&text=Eduarda%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20•%20Federal%20University%20of%20Ceará&descAlignY=58"/>
 
-Passionate about transforming data into insights through statistics, machine learning and artificial intelligence.
+# 👩🏻‍💻 Eduarda Sousa
+
+### Data Science Student | Federal University of Ceará (UFC)
+
+Passionate about transforming data into insights through **Machine Learning**, **Statistics** and **Artificial Intelligence**.
 
 <p>
-
 <a href="mailto:duda.fullstack@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -13,7 +16,6 @@ Passionate about transforming data into insights through statistics, machine lea
 <a href="https://linkedin.com/in/dudasousa1904">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
@@ -24,17 +26,16 @@ Passionate about transforming data into insights through statistics, machine lea
 
 🎓 Bachelor's student in **Data Science** at the **Federal University of Ceará (UFC)**.
 
-📊 Areas of interest:
+I enjoy transforming data into meaningful insights through:
 
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- Data Visualization
-- Statistics
-- Business Intelligence
-- Predictive Analytics
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📈 Data Visualization
+- 📚 Statistics
+- ☁️ Business Intelligence
 
-🌱 Currently learning:
+Currently studying:
 
 - Deep Learning
 - Computer Vision
@@ -46,44 +47,35 @@ Passionate about transforming data into insights through statistics, machine lea
 
 # 💻 Tech Stack
 
-## Programming Languages
+### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript"/>
 </p>
 
-## Data Science & AI
+### Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask"/>
-</p>
-
-<p>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 </p>
 
-## Database
+### Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
-## Web
+### Web
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask"/>
 </p>
 
 ---
@@ -92,13 +84,15 @@ Passionate about transforming data into insights through statistics, machine lea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DudaSousa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=DudaSousa&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaSousa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=DudaSousa&layout=compact&theme=tokyonight" />
+</a>
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
@@ -110,22 +104,37 @@ Passionate about transforming data into insights through statistics, machine lea
 
 ---
 
+<!-- Ative após configurar o GitHub Actions -->
+
+<!--
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DudaSousa/DudaSousa/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+-->
+
+---
+
 # 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🏙️ **SmartCity** | Smart city solution developed as an academic project. |
-| 📊 **Data Analysis Projects** | Exploratory analysis and data visualization studies. |
-| 🤖 **Machine Learning** | Predictive models using Python and Scikit-Learn. |
+|---------|-------------|
+| 🏙️ **[SmartCity](https://github.com/DudaSousa/SmartCity)** | Smart City solution developed as an academic project. |
+| 📊 **Coming Soon** | Data Analysis projects using Python, Pandas and Plotly. |
+| 🤖 **Coming Soon** | Machine Learning models built with Scikit-Learn and TensorFlow. |
 
 ---
 
 # 🎯 Goals
 
-- 📚 Deepen knowledge in Artificial Intelligence
-- 📊 Build impactful Data Science projects
-- ☁️ Learn cloud technologies for data applications
-- 🤝 Contribute to open-source projects
+- 🚀 Build impactful Data Science projects
+- 🤖 Improve my Machine Learning skills
+- ☁️ Learn Cloud for Data Engineering
+- 🌍 Contribute to Open Source
+- 📚 Continue learning every day
 
 ---
 
@@ -140,8 +149,8 @@ https://linkedin.com/in/dudasousa1904
 
 <div align="center">
 
-*"Without data, you're just another person with an opinion."*  
-— W. Edwards Deming
+> *"Without data, you're just another person with an opinion."*  
+> **— W. Edwards Deming**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=120&section=footer"/>
 
