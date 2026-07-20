@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=660033&text=Eduarda%20Sousa&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Federal%20University%20of%20Ceará&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=220&section=header&text=Eduarda%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20|%20Federal%20University%20of%20Cear%C3%A1&descAlignY=58"/>
 
-_"Turning data into knowledge through statistics, machine learning and artificial intelligence."_
+Passionate about transforming data into insights through statistics, machine learning and artificial intelligence.
 
-<p align="center">
+<p>
 
 <a href="mailto:duda.fullstack@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -16,64 +16,59 @@ _"Turning data into knowledge through statistics, machine learning and artificia
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=DudaSousa&label=Profile%20Views&color=660033&style=for-the-badge"/>
-
 </div>
 
 ---
 
 # 👩🏻 About Me
 
-🎓 Undergraduate in **Data Science** at the **Federal University of Ceará (UFC)**.
+🎓 Bachelor's student in **Data Science** at the **Federal University of Ceará (UFC)**.
 
-I'm passionate about solving real-world problems through:
+📊 Areas of interest:
 
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Data Visualization
-- 📚 Statistics
-- 💡 Predictive Analytics
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Data Visualization
+- Statistics
+- Business Intelligence
+- Predictive Analytics
 
-Currently improving my knowledge in:
+🌱 Currently learning:
 
 - Deep Learning
 - Computer Vision
-- NLP
-- MLOps
+- Natural Language Processing
 - Data Engineering
+- MLOps
 
 ---
 
-# ⚙️ Tech Stack
+# 💻 Tech Stack
 
 ## Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript"/>
-
 </p>
 
-## Data Science
+## Data Science & AI
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask"/>
-
 </p>
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
@@ -82,40 +77,26 @@ Currently improving my knowledge in:
 ## Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres"/>
-
 </p>
 
 ## Web
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DudaSousa&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DudaSousa&theme=dracula&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=DudaSousa&theme=dracula&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DudaSousa&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DudaSousa&theme=dracula&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -131,36 +112,22 @@ Currently improving my knowledge in:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DudaSousa/DudaSousa/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
-⭐ **SmartCity**
-
-Machine Learning and Smart City solutions.
-
-⭐ **Coming Soon**
-
-More projects involving AI, Data Science and Analytics.
+| Project | Description |
+|----------|-------------|
+| 🏙️ **SmartCity** | Smart city solution developed as an academic project. |
+| 📊 **Data Analysis Projects** | Exploratory analysis and data visualization studies. |
+| 🤖 **Machine Learning** | Predictive models using Python and Scikit-Learn. |
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Goals
 
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Data Engineering
+- 📚 Deepen knowledge in Artificial Intelligence
+- 📊 Build impactful Data Science projects
+- ☁️ Learn cloud technologies for data applications
+- 🤝 Contribute to open-source projects
 
 ---
 
@@ -168,14 +135,16 @@ More projects involving AI, Data Science and Analytics.
 
 📧 **duda.fullstack@gmail.com**
 
-💼 **linkedin.com/in/dudasousa1904**
+💼 **LinkedIn:**  
+https://linkedin.com/in/dudasousa1904
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+*"Without data, you're just another person with an opinion."*  
+— W. Edwards Deming
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=660033&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=120&section=footer"/>
 
 </div>
