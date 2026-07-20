@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660033&height=220&section=header&text=Eduarda%20Sousa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20•%20Federal%20University%20of%20Ceará&descAlignY=58"/>
 
-# 👩🏻‍💻 Eduarda Sousa
-
-### Data Science Student | Federal University of Ceará (UFC)
-
 Passionate about transforming data into insights through **Machine Learning**, **Statistics** and **Artificial Intelligence**.
 
 <p>
