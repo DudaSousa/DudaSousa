@@ -118,7 +118,7 @@ Currently studying:
 | Project | Description |
 |---------|-------------|
 | 🏙️ **[SmartCity](https://github.com/DudaSousa/SmartCity)** | Smart City solution developed as an academic project. |
-| 🛒 **[Bodega Management System](https://github.com/DudaSousa/Bodega-Management-System/tree/main])**| Desktop system for product management and inventory control using **Object-Oriented Programming**. |
+| 🛒 **[Management System](https://github.com/DudaSousa/Bodega-Management-System/tree/main])**| Desktop system for product management and inventory control using **Object-Oriented Programming**. |
 | 📊 **Coming Soon** | Data Analysis projects using Python, Pandas and Plotly. |
 | 🤖 **Coming Soon** | Machine Learning models built with Scikit-Learn and TensorFlow. |
 
