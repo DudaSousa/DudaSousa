@@ -24,21 +24,20 @@ Passionate about transforming data into insights through **Machine Learning**, *
 
 I enjoy transforming data into meaningful insights through:
 
-- 📊 Data Analysis
+- 📊 Data Science
 - 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Data Visualization
+- 📈 Data Analytics
+- 📉 Data Visualization
 - 📚 Statistics
-- ☁️ Business Intelligence
+- 🗄️ Data Engineering
 
 Currently studying:
 
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Data Engineering
-- MLOps
-
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- ⚙️ MLOps
+- ☁️ Cloud Computing (AWS/Azure/GCP)
 ---
 
 # 💻 Tech Stack
