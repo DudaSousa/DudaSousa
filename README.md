@@ -33,11 +33,11 @@ I enjoy transforming data into meaningful insights through:
 
 Currently studying:
 
-- 🧠 Deep Learning
-- 👁️ Computer Vision
+- 📊 Machine Learning
 - 💬 Natural Language Processing (NLP)
-- ⚙️ MLOps
-- ☁️ Cloud Computing (AWS/Azure/GCP)
+- ☁️ Cloud Computing (AWS)
+- 🗄️ SQL & Databases
+- 📈 Data Visualization (Matplotlib, Seaborn & Power BI)
 ---
 
 # 💻 Tech Stack
